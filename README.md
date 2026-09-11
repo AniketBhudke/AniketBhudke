@@ -1,287 +1,148 @@
-<h1 align="center">Hi 👋, I'm Aniket Bhudke</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | Python Developer | Data Science | AI & GenAI Enthusiast
-</h3>
+# ⚡ Aniket Bhudke
+### **Data Analyst | Python & FastAPI Engineer | GenAI & RAG Developer**
 
-<p align="center">
-Building data-driven applications, backend solutions, and intelligent systems using Python, SQL, Analytics, and AI.
-</p>
-
-<p align="center">
-  <a href="https://github.com/AniketBhudke">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-bhudke-389b592b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-bhudke-389b592b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniketBhudke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbhudke@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+> *Bridging the gap between raw data, high-throughput backend systems, and intelligent GenAI agents.*
 
-- 🎓 **MCA (Data Science) Student** with a strong interest in Data Analytics and Software Development
-- 📊 Focused on **Data Analytics, EDA, Data Visualization, SQL, and Business Intelligence**
-- 🐍 Skilled in **Python, Pandas, NumPy, and Matplotlib**
-- ⚡ Building backend applications and REST APIs using **FastAPI and Django**
-- 🗄️ Working with **PostgreSQL, MySQL, and SQL-based data systems**
-- 🤖 Exploring **Generative AI, RAG, LLM applications, embeddings, and AI agents**
-- 🔬 Interested in applying **Data Science, Machine Learning, and AI** to real-world problems
-- 💡 Passionate about problem-solving, continuous learning, and building practical technology solutions
+</div>
 
 ---
 
-## 🏆 Achievements
+## 👨‍💻 Executive Summary
 
-- 🥇 **1st Prize – Best Paper Presentation, ISIGT 2025**
-  - Research on **Traffic Congestion Causes in Pune**
-
-- 🚀 **Top 20 Team – MIT ADT Hackathon**
-  - Selected among **1200+ participating teams**
-
-- 🛡️ **National Recognition – Cyber Shiksha for Cyber Suraksha**
-  - Quick Heal Foundation initiative
+- 🎓 **MCA (Data Science)** candidate at **MIT ADT University** with expertise in **Data Analytics, Full-Stack AI systems, and Backend Engineering**.
+- 🚀 **GenAI & RAG Practitioner:** Experienced in building vector retrieval pipelines, embedding-based semantic search, and LLM orchestration models.
+- ⚡ **Backend Architect:** Specialist in building production-ready RESTful APIs using **FastAPI, Django, PostgreSQL, and MySQL**.
+- 📊 **Data Analytics Specialist:** Skilled in EDA, RFM Customer Segmentation, SQL-driven analytics pipelines, and predictive ML modeling.
+- 🏆 **Proven Achiever:** Recognized among the **Top 20 Teams out of 1,300+** at the Smart India Hackathon (SIH) 2025 and awarded **1st Prize for Research Presentation** at ISIGT 2025.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack & Ecosystem
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 📊 Data Analytics & Data Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-`EDA` `Data Cleaning` `Data Transformation` `Data Visualization` `Statistical Analysis` `KPI Analysis`
-
-### 🤖 AI & Generative AI
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-AI-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-AI-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Databases-AI-556B2F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-GenAI-DC143C?style=for-the-badge" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-Backend-7952B3?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="25%"><b>Programming & Querying</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Science & Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>GenAI & Vector Search</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLMs_%26_Embeddings-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vector_Databases-556B2F?style=flat-square"/>
+      <img src="https://img.shields.io/badge/AI_Agents-DC143C?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-7952B3?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Featured Projects
 
-### 🍽️ MIT-ADT Mess Hub
+### 🤖 Mentora — AI Career & Course Guidance Platform
+> **SIH 2025 Top 20 Finalist | Incubated by CRiEYA Innovation Cell (AIC-MITADT)**
 
-A centralized multi-mess management system designed to digitize and streamline university mess operations.
-
-**Key Features:**
-
-- 👤 Student authentication and meal booking
-- 💳 Online payment processing
-- 📸 Face-scan attendance
-- ⭐ Meal rating and feedback collection
-- 📊 Admin analytics dashboard
-- 📈 Payment, attendance, and meal-rating reports
-- 🔔 Notifications and feedback management
-- 🧾 Supplier and ingredient management
-
-**Tech Stack:**  
-`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `Razorpay`
+An end-to-end full-stack AI career platform linking student aspirations with automated learning roadmaps and course indexing.
+* Built dynamic REST APIs using Node/Express and FastAPI backends connected to a custom NLP intent parser.
+* Querying and dataset indexing across MongoDB and PostgreSQL for course mapping and skill recommendations.
+* Includes dedicated dashboards for students and an interactive **Teacher Guide Center**.
+* `Tech:` Python, FastAPI, React, Node.js, Express, MongoDB, Tailwind CSS, Custom NLP
 
 ---
 
-### 🤖 AI RAG Assistant
+### 🧠 Enterprise RAG & Contextual Document Agent
+> **Retrieval-Augmented Generation Engine for Enterprise Document Q&A**
 
-An AI-powered document question-answering system using **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from documents and generate contextual responses.
-
-**Key Features:**
-
-- 📄 Document processing
-- ✂️ Text chunking
-- 🔎 Semantic retrieval
-- 🧠 Embedding-based search
-- 🤖 LLM-powered responses
-- 📚 Context-aware question answering
-
-**Tech Stack:**  
-`Python` `RAG` `LLM` `Embeddings` `Vector Database` `OpenAI`
+An intelligent document querying service using semantic embeddings and vector store similarity retrieval.
+* Implemented text chunking strategies and embedding pipelines for sub-second retrieval performance.
+* Integrates an LLM context synthesis layer to provide accurate, hallucination-free document Q&A.
+* `Tech:` Python, FastAPI, Embeddings, Vector Search, OpenAI API, LangChain concepts
 
 ---
 
-### 📊 E-Commerce Sales & Customer Analytics
+### 📊 E-Commerce Analytics & Customer Segmentation
+> **End-to-End Analytics Workflow with Predictive Churn Modeling**
 
-An end-to-end data analytics project focused on transforming raw business data into actionable business insights.
-
-**Key Highlights:**
-
-- 🧹 Data cleaning and transformation
-- 🔍 Exploratory Data Analysis
-- 👥 Customer segmentation using RFM analysis
-- 🌎 Regional sales performance analysis
-- 📈 KPI and business performance analysis
-- 🤖 Customer churn prediction
-
-**Tech Stack:**  
-`Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Scikit-learn`
+A comprehensive analytics project analyzing customer behavioral patterns and sales KPIs.
+* Conducted RFM (Recency, Frequency, Monetary) segmentation and exploratory data analysis (EDA).
+* Machine Learning predictive modeling for customer churn analysis to assist retention strategies.
+* `Tech:` Python, Pandas, NumPy, SQL, Matplotlib, Scikit-learn
 
 ---
 
-### 🎓 Mentora – Mentorship Platform
+### 🍽️ MIT-ADT Mess Hub Platform
+> **Digitized Centralized Campus Mess & Operations Infrastructure**
 
-A mentorship platform designed to connect students with mentors and simplify the mentorship process.
-
-**Key Features:**
-
-- 👨‍🎓 Student and mentor interaction
-- 🔐 Authentication
-- 🤝 Mentorship management
-- 🗄️ PostgreSQL database
-- ⚡ FastAPI backend
-
-🏆 **Selected among the Top 20 teams from 1200+ participants at the MIT ADT Hackathon.**
-
-**Tech Stack:**  
-`Python` `FastAPI` `PostgreSQL` `HTML` `CSS` `JavaScript`
+A centralized campus management system automating attendance, meal scheduling, and analytics.
+* Automated attendance tracking, feedback collection, supplier tracking, and admin KPI reporting dashboards.
+* `Tech:` Python, Django, PostgreSQL, JavaScript, Razorpay Payment Gateway
 
 ---
 
-### 🍽️ Restaurant Management System
+## 🏆 Achievements & Industry Recognition
 
-A QR-based digital restaurant menu and management system designed to improve the customer ordering experience.
-
-**Key Features:**
-
-- 📱 QR-based digital menu
-- 🍴 Menu management
-- ⚡ FastAPI backend
-- 🌐 Responsive web interface
-
-**Tech Stack:**  
-`Python` `FastAPI` `HTML` `CSS` `JavaScript`
+- 🏆 **Top 20 Team (SIH 2025):** Selected out of **1,300+ participating teams** nationwide; selected for incubator support by **CRiEYA Innovation Cell**.
+- 🥇 **1st Prize – Best Paper Presentation (ISIGT 2025):** Research paper on *“Investigation of Traffic Congestion Causes Using Real-Time Insights in Pune Region.”*
+- 🛡️ **Cyber Security Recognition:** Recognized under the *Cyber Shiksha for Cyber Suraksha* initiative by Quick Heal Foundation.
 
 ---
 
-### 🎉 Event Decoration System
+## 📈 GitHub Analytics
 
-A web-based platform designed to manage event decoration services and simplify customer interactions.
-
-**Key Features:**
-
-- 🎨 Decoration service management
-- 📋 Event management
-- 🌐 Web-based interface
-- ⚡ FastAPI backend
-
-**Tech Stack:**  
-`Python` `FastAPI` `HTML` `CSS` `JavaScript`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketBhudke&show_icons=true&theme=tokyonight&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketBhudke&layout=compact&theme=tokyonight&hide=html,css" height="175" />
+</div>
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### 🔬 Technology Analyst Intern — WAY.CZ International
+### 🤝 Let's Connect & Collaborate!
 
-- Conducted **market research, competitor benchmarking, and sustainability technology analysis**
-- Researched **Carbon Technology, Carbon Footprint, Carbon Credits, and Climate Technology**
-- Contributed to **requirements gathering and PRD preparation**
-- Worked on requirements for a **Carbon Calculation & Reporting Engine**
-- Researched industry trends and emerging sustainability solutions
-- Collaborated with team members on product and technology research
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-bhudke-389b592b0/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbhudke@gmail.com)
 
----
-
-### 💻 Python Developer Intern — LeadTurtle Technologies
-
-- Designed and developed **RESTful APIs using Python and FastAPI**
-- Worked with **PostgreSQL and MySQL** databases
-- Implemented backend functionality and authentication
-- Optimized database queries and backend operations
-- Collaborated on frontend and backend integration
-
----
-
-## 🎓 Education
-
-### MCA — Data Science
-
-**MIT ADT University, Pune**
-
----
-
-## 🔬 Research
-
-### Investigation of Traffic Congestion Causes Using Real-Time Insights from Traffic Police Officers in Pune Region
-
-- 📍 Focused on traffic congestion issues in the Pune region
-- 📊 Used survey-based primary data and field observations
-- 🔎 Investigated factors including potholes, drainage issues, accidents, wrong-side driving, and traffic-rule violations
-- 🤖 Explored potential solutions using AI, IoT sensors, drone-based monitoring, and automated traffic management
-
-🏆 **1st Prize – Best Paper Presentation, ISIGT 2025**
-
----
-
-## 📊 Analytics & Data Workflow
-
-```text
-Understand Business Problem
-          ↓
-      Collect Data
-          ↓
-   Clean & Transform
-          ↓
-        EDA
-          ↓
-   Analyze with SQL
-          ↓
- Data Visualization
-          ↓
-   Extract Insights
-          ↓
-ML & Predictive Modeling
-          ↓
-   Business Strategy
+</div>
